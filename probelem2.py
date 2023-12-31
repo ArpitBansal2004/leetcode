@@ -1,3 +1,6 @@
+#Runtime: 48ms
+#Memory: 17.5MB
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
